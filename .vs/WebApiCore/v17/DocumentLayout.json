@@ -1,0 +1,216 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\WebApiCore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1BF3512A-E3B0-470C-B376-C09F62CC6366}|WebApiCore\\WebApiCore.csproj|c:\\users\\admin\\source\\repos\\webapicore\\webapicore\\controllers\\empcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BF3512A-E3B0-470C-B376-C09F62CC6366}|WebApiCore\\WebApiCore.csproj|solutionrelative:webapicore\\controllers\\empcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BF3512A-E3B0-470C-B376-C09F62CC6366}|WebApiCore\\WebApiCore.csproj|c:\\users\\admin\\source\\repos\\webapicore\\webapicore\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BF3512A-E3B0-470C-B376-C09F62CC6366}|WebApiCore\\WebApiCore.csproj|solutionrelative:webapicore\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BF3512A-E3B0-470C-B376-C09F62CC6366}|WebApiCore\\WebApiCore.csproj|c:\\users\\admin\\source\\repos\\webapicore\\webapicore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1BF3512A-E3B0-470C-B376-C09F62CC6366}|WebApiCore\\WebApiCore.csproj|solutionrelative:webapicore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BF3512A-E3B0-470C-B376-C09F62CC6366}|WebApiCore\\WebApiCore.csproj|c:\\users\\admin\\source\\repos\\webapicore\\webapicore\\models\\emp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BF3512A-E3B0-470C-B376-C09F62CC6366}|WebApiCore\\WebApiCore.csproj|solutionrelative:webapicore\\models\\emp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BF3512A-E3B0-470C-B376-C09F62CC6366}|WebApiCore\\WebApiCore.csproj|c:\\users\\admin\\source\\repos\\webapicore\\webapicore\\webapicore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1BF3512A-E3B0-470C-B376-C09F62CC6366}|WebApiCore\\WebApiCore.csproj|solutionrelative:webapicore\\webapicore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BF3512A-E3B0-470C-B376-C09F62CC6366}|WebApiCore\\WebApiCore.csproj|c:\\users\\admin\\source\\repos\\webapicore\\webapicore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BF3512A-E3B0-470C-B376-C09F62CC6366}|WebApiCore\\WebApiCore.csproj|solutionrelative:webapicore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BF3512A-E3B0-470C-B376-C09F62CC6366}|WebApiCore\\WebApiCore.csproj|c:\\users\\admin\\source\\repos\\webapicore\\webapicore\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BF3512A-E3B0-470C-B376-C09F62CC6366}|WebApiCore\\WebApiCore.csproj|solutionrelative:webapicore\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BF3512A-E3B0-470C-B376-C09F62CC6366}|WebApiCore\\WebApiCore.csproj|c:\\users\\admin\\source\\repos\\webapicore\\webapicore\\migrations\\20240830111631_addemptable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BF3512A-E3B0-470C-B376-C09F62CC6366}|WebApiCore\\WebApiCore.csproj|solutionrelative:webapicore\\migrations\\20240830111631_addemptable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f53-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20240830111631_AddEmpTable.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WebApiCore\\WebApiCore\\Migrations\\20240830111631_AddEmpTable.cs",
+              "RelativeDocumentMoniker": "WebApiCore\\Migrations\\20240830111631_AddEmpTable.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WebApiCore\\WebApiCore\\Migrations\\20240830111631_AddEmpTable.cs",
+              "RelativeToolTip": "WebApiCore\\Migrations\\20240830111631_AddEmpTable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T11:16:31.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmpController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WebApiCore\\WebApiCore\\Controllers\\EmpController.cs",
+              "RelativeDocumentMoniker": "WebApiCore\\Controllers\\EmpController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WebApiCore\\WebApiCore\\Controllers\\EmpController.cs",
+              "RelativeToolTip": "WebApiCore\\Controllers\\EmpController.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAADwv0UAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T11:10:58.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WebApiCore.csproj",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WebApiCore\\WebApiCore\\WebApiCore.csproj",
+              "RelativeDocumentMoniker": "WebApiCore\\WebApiCore.csproj",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WebApiCore\\WebApiCore\\WebApiCore.csproj",
+              "RelativeToolTip": "WebApiCore\\WebApiCore.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-30T11:09:25.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Emp.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WebApiCore\\WebApiCore\\Models\\Emp.cs",
+              "RelativeDocumentMoniker": "WebApiCore\\Models\\Emp.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WebApiCore\\WebApiCore\\Models\\Emp.cs",
+              "RelativeToolTip": "WebApiCore\\Models\\Emp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T11:09:46.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WebApiCore\\WebApiCore\\Program.cs",
+              "RelativeDocumentMoniker": "WebApiCore\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WebApiCore\\WebApiCore\\Program.cs",
+              "RelativeToolTip": "WebApiCore\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T10:30:40.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WebApiCore\\WebApiCore\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "WebApiCore\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WebApiCore\\WebApiCore\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "WebApiCore\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T10:33:56.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WebApiCore\\WebApiCore\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApiCore\\appsettings.json",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WebApiCore\\WebApiCore\\appsettings.json",
+              "RelativeToolTip": "WebApiCore\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAACVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-30T10:30:45.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WebApiCore\\WebApiCore\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WebApiCore\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WebApiCore\\WebApiCore\\WeatherForecast.cs",
+              "RelativeToolTip": "WebApiCore\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T10:30:42.782Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 912,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
